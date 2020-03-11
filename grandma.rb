@@ -3,7 +3,7 @@ def speak_to_grandma(string)
   test_string = string.upcase
 
   if test_string == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN"
+    return "I LOVE YOU TOO PUMPKIN!"
   end
 end
 
